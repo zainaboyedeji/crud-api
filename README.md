@@ -16,10 +16,4 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) API built 
 - [MongoDB](https://www.mongodb.com/) (Local or MongoDB Atlas for a cloud-based solution)
 - [Postman](https://www.postman.com/) (optional, for testing API endpoints)
 
-## Getting Started
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
