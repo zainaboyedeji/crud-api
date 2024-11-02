@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 
 mongoose
   .connect(
-    "mongodb+srv://zainaboyedeji95:Oyindamola95$@crudappdb.3ucmu.mongodb.net/Crud-API?retryWrites=true&w=majority&appName=CrudAppDB"
+    "mongodb+srv://<username>:<password>@crudappdb.3ucmu.mongodb.net/Crud-API?retryWrites=true&w=majority&appName=CrudAppDB"
   )
   .then(() => {
     console.log("Connected to the database!");
